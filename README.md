@@ -28,7 +28,7 @@ api 介绍
 
 部署：
 
-    sql位置：script/sql/dump-okx-202411191803.sql  只需要执行这一个sql就可以了
+    sql位置：script/sql/dump-okx-202411221105.sql  只需要执行这一个sql就可以了
     部署方式，可以docker脚本，也可以java -jar
 
 注意事项：
