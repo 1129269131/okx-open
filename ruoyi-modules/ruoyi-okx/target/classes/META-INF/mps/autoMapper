@@ -1,0 +1,12 @@
+org.dromara.okx.domain.bo.CopytradingInfoBo
+org.dromara.okx.domain.vo.SubPosCurrentVo
+org.dromara.okx.domain.vo.SubPosHisVo
+org.dromara.okx.domain.bo.ClientUserBo
+org.dromara.okx.domain.bo.UserSwapConfigBo
+org.dromara.okx.domain.vo.CopytradingInfoVo
+org.dromara.okx.domain.vo.ClientUserVo
+org.dromara.okx.domain.bo.SubPosCurrentBo
+org.dromara.okx.domain.vo.InstPushInfoVo
+org.dromara.okx.domain.bo.SubPosHisBo
+org.dromara.okx.domain.vo.UserSwapConfigVo
+org.dromara.okx.domain.bo.InstPushInfoBo

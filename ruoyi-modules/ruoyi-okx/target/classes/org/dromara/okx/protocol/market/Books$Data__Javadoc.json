@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"asks","doc":" 卖方深度\n"},{"name":"bids","doc":" 买方深度\n"},{"name":"ts","doc":" 深度产生的时间\n"}],"enumConstants":[],"methods":[],"constructors":[]}

@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"convertContractCoin","paramTypes":["org.dromara.okx.protocol.pub.ConvertContractCoin.Request"],"doc":"  张币转换\n  <a href=\"https://www.okx.com/docs-v5/zh/#rest-api-public-data-get-unit-convert\"></a>\n"}],"constructors":[]}

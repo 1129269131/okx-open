@@ -1,0 +1,1 @@
+{"doc":" Map处理器 示例\n\n @author tjq\n @since 2020/4/18\n","fields":[{"name":"BATCH_SIZE","doc":" 每一批发送任务大小\n"},{"name":"BATCH_NUM","doc":" 发送的批次\n"}],"enumConstants":[],"methods":[],"constructors":[]}

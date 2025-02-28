@@ -1,0 +1,1 @@
+{"doc":" @description: 钉钉机器人   老版的  暂不使用\n @author: chen\n @date: 2024/4/25 上午11:41\n","fields":[{"name":"WEBHOOK","doc":" 配置机器人的webhook\n"}],"enumConstants":[],"methods":[{"name":"getDingUrl","paramTypes":[],"doc":" @return java.lang.String\n @description [自定义机器人安全设置-加签-获取请求url]\n @author ･ᴗ･\n @method getDingUrl\n @date 2022/8/16 11:04\n"}],"constructors":[]}

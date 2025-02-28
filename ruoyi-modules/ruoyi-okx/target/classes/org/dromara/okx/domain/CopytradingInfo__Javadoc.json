@@ -1,0 +1,1 @@
+{"doc":" 交易员信息对象 copytrading_info\n\n @author cc\n @date 2024-04-28\n","fields":[{"name":"id","doc":" ID\n"},{"name":"name","doc":" 姓名\n"},{"name":"uniqueCode","doc":" 标识码\n"},{"name":"recomIndex","doc":" 推荐指数\n"},{"name":"platform","doc":" 平台\n"},{"name":"delFlag","doc":" 删除标志（0：未删除，1：已删除）\n"}],"enumConstants":[],"methods":[],"constructors":[]}

@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"instId","doc":" 产品ID，如 BTC-USDT\n"},{"name":"type","doc":" 分页类型\n 1：tradeId 分页 2：时间戳分页\n 默认为1：tradeId 分页\n"},{"name":"after","doc":" 请求此时间戳之前（更旧的数据）的分页内容，传的值为对应接口的ts\n"},{"name":"before","doc":" 请求此时间戳之后（更新的数据）的分页内容，传的值为对应接口的ts\n"},{"name":"limit","doc":" 分页返回的结果集数量，最大为300，不填默认返回100条\n"}],"enumConstants":[],"methods":[],"constructors":[]}

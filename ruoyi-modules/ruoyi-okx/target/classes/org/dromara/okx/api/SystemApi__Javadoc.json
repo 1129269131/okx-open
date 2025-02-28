@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"status","paramTypes":["org.dromara.okx.protocol.system.Status.Request"],"doc":" 获取系统升级事件的状态\n <a href=\"https://www.okx.com/docs-v5/zh/#rest-api-status\">api</a>\n @param request {@link Status.Request}\n @return {@link Status.Response}\n"}],"constructors":[]}

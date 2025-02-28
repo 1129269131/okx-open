@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"instId","doc":" 产品ID 如 BTC-USDT\n 是否必须 是\n"},{"name":"algoId","doc":" 策略委托单ID\n 是否必须 是\n"}],"enumConstants":[],"methods":[],"constructors":[]}

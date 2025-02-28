@@ -1,0 +1,69 @@
+{
+  "groups": [
+    {
+      "name": "codingapi.okx.config",
+      "type": "org.dromara.okx.properties.OkxConfigProperties",
+      "sourceType": "org.dromara.okx.AutoOkxRestConfiguration",
+      "sourceMethod": "okxConfigProperties()"
+    },
+    {
+      "name": "codingapi.okx.proxy",
+      "type": "com.codingapi.springboot.framework.rest.properties.HttpProxyProperties",
+      "sourceType": "org.dromara.okx.AutoOkxRestConfiguration",
+      "sourceMethod": "httpProxyProperties()"
+    }
+  ],
+  "properties": [
+    {
+      "name": "codingapi.okx.config.api-url",
+      "type": "java.lang.String",
+      "description": "api url",
+      "sourceType": "org.dromara.okx.properties.OkxConfigProperties"
+    },
+    {
+      "name": "codingapi.okx.config.apikey",
+      "type": "java.lang.String",
+      "description": "appkey",
+      "sourceType": "org.dromara.okx.properties.OkxConfigProperties"
+    },
+    {
+      "name": "codingapi.okx.config.mock",
+      "type": "java.lang.Boolean",
+      "description": "mock",
+      "sourceType": "org.dromara.okx.properties.OkxConfigProperties"
+    },
+    {
+      "name": "codingapi.okx.config.passphrase",
+      "type": "java.lang.String",
+      "description": "appkey 密码",
+      "sourceType": "org.dromara.okx.properties.OkxConfigProperties"
+    },
+    {
+      "name": "codingapi.okx.config.secretkey",
+      "type": "java.lang.String",
+      "description": "secretkey",
+      "sourceType": "org.dromara.okx.properties.OkxConfigProperties"
+    },
+    {
+      "name": "codingapi.okx.proxy.enable-proxy",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.codingapi.springboot.framework.rest.properties.HttpProxyProperties"
+    },
+    {
+      "name": "codingapi.okx.proxy.proxy-host",
+      "type": "java.lang.String",
+      "sourceType": "com.codingapi.springboot.framework.rest.properties.HttpProxyProperties"
+    },
+    {
+      "name": "codingapi.okx.proxy.proxy-port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.codingapi.springboot.framework.rest.properties.HttpProxyProperties"
+    },
+    {
+      "name": "codingapi.okx.proxy.proxy-type",
+      "type": "java.net.Proxy$Type",
+      "sourceType": "com.codingapi.springboot.framework.rest.properties.HttpProxyProperties"
+    }
+  ],
+  "hints": []
+}

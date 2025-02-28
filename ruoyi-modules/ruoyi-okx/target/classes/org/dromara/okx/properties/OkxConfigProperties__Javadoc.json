@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"apiUrl","doc":" api url\n"},{"name":"apikey","doc":" appkey\n"},{"name":"secretkey","doc":" secretkey\n"},{"name":"passphrase","doc":" appkey 密码\n"},{"name":"mock","doc":" mock\n"}],"enumConstants":[],"methods":[],"constructors":[]}

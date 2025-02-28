@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"instId","doc":" 产品ID\n"},{"name":"tradeId","doc":" 成交ID\n"},{"name":"px","doc":" 成交价格\n"},{"name":"sz","doc":" 成交数量\n"},{"name":"side","doc":" 成交方向\n"},{"name":"ts","doc":" 成交时间，Unix时间戳的毫秒数格式， 如1597026383085\n"}],"enumConstants":[],"methods":[],"constructors":[]}

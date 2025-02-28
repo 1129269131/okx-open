@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"price","doc":" 价格\n"},{"name":"instSize","doc":" 交易量\n"},{"name":"orderSize","doc":" 订单数量\n"}],"enumConstants":[],"methods":[],"constructors":[]}

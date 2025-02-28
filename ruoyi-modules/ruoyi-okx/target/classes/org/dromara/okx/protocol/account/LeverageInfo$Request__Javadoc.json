@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"instId","doc":" 产品ID\n 支持多个instId查询，半角逗号分隔。instId个数不超过20个\n 是否必须 是\n"},{"name":"mgnMode","doc":" 保证金模式\n isolated：逐仓 cross：全仓\n 是否必须 是\n"}],"enumConstants":[],"methods":[],"constructors":[]}

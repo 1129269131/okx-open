@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"instId","doc":" 产品ID\n"},{"name":"type","doc":" 转换类型\n 1: 币转张，当张小数时，会进一取整\n 2: 张转币\n"},{"name":"px","doc":" 委托价格\n"},{"name":"sz","doc":" 数量，张转币时，为币的数量，币转张时，为张的数量\n"},{"name":"unit","doc":" 币的单位，coin: 币，usdt: usdt\n"}],"enumConstants":[],"methods":[],"constructors":[]}

@@ -1,0 +1,1 @@
+{"doc":" @Author: chen\n @Date: 2024-04-25  14:07\n @Description: 钉钉机器人的配置信息   目前仅测试使用，实际用的是yml配置文件的\n @Version: 1.0\n","fields":[{"name":"WEBHOOK","doc":" 配置机器人的webhook\n"}],"enumConstants":[],"methods":[],"constructors":[]}

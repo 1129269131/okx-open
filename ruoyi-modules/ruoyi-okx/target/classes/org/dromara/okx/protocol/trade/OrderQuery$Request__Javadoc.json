@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"instId","doc":" 产品ID\n 是\n"},{"name":"ordId","doc":" 订单ID ， ordId和clOrdId必须传一个，若传两个，以ordId为主\n"},{"name":"clOrdId","doc":" 用户自定义ID\n"}],"enumConstants":[],"methods":[],"constructors":[]}

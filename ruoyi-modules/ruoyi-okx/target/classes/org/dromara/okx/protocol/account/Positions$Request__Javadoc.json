@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"instId","doc":" 产品ID\n 否\n 支持多个instId查询，半角逗号分隔。instId个数不超过20个\n"},{"name":"instType","doc":" 产品类型\n 否\n MARGIN：币币杠杆\n SWAP：永续合约\n FUTURES：交割合约\n OPTION：期权\n instType和instId同时传入的时候会校验instId与instType是否一致。\n\n"},{"name":"posId","doc":" 持仓ID\n 支持多个posId查询（不超过20个），半角逗号分割\n"}],"enumConstants":[],"methods":[],"constructors":[]}
